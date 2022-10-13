@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gyqogxvl08hxdcfc/branch/master?svg=true)](https://ci.appveyor.com/project/VisYar/hwauto2/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/bhacg6hmuo0i1fg3?svg=true)](https://ci.appveyor.com/project/VisYar/hwauto2-api-ci)
 
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
